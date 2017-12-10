@@ -20,8 +20,8 @@ public class ConstructorChainingSameClass {
 
 	ConstructorChainingSameClass(int parameter1, int parameter2) // Double parameterized constructor
 	{
-		System.out.println(parameter1 + parameter2); // Adding both the parameters and printing the value of resulting
-														// value
+		// Adding both the parameters and printing the value of resulting value
+		System.out.println(parameter1 + parameter2);
 	}// End of Double parameterized constructor
 
 	public static void main(String[] args) // main method
